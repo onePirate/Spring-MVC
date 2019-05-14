@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>请求页面</title>
+</head>
+<body>
+    <div align="center">
+        <form action="" method="">
+            <table>
+                <thead>
+                    <tr>
+                        <td>请求连接</td><td>请求参数</td><td>操作</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><input type="text" name="getUrl"></td>
+                        <td><input type="text" name="getParam"></td>
+                        <td><input type="submit" value="get提交"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" name="postUrl"></td>
+                        <td><input type="text" name="postParam"></td>
+                        <td><input type="submit" value="post提交"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" name="dataUrl"></td>
+                        <td><input type="text" name="dataParam"></td>
+                        <td><input type="submit" value="数据提交"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+    </div>
+</body>
+</html>

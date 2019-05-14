@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AJAX-DATA</title>
+    <style type="text/css">
+        .aj-table{
+            border: 1px solid #000000;
+        }
+        .aj-table tr td{
+            border: 1px solid #000000;
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <table class="aj-table">
+            <tr><td></td><td></td></tr>
+            <tr><td></td><td></td></tr>
+            <tr><td></td><td></td></tr>
+            <tr><td></td><td></td></tr>
+        </table>
+    </div>
+</body>
+</html>
